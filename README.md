@@ -14,7 +14,7 @@ This project demonstrates the fundamentals of Business Intelligence by creating 
 
 ## 📦 Technologies Used
 
-- **Database**: SQL (SQLite/MySQL as you wish)
+- **Database**: MySQL 
 - **Data Processing**: Python
 - **Visualization**: Microsoft PowerBI
 - **Tools**: Jupyter Notebooks, VS Code

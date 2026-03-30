@@ -88,6 +88,3 @@ SELECT
 FROM sales_system.payments p
 JOIN sales_system.customers c ON p.customer_id = c.customer_id
 JOIN sales_system.employees e ON c.sales_rep_employee_id = e.document_id;
-
--- Verification
-SELECT * FROM fact_payments LIMIT 10;

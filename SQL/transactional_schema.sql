@@ -106,10 +106,3 @@ CREATE TABLE order_details (
     CONSTRAINT fk_detail_product FOREIGN KEY (product_id) 
         REFERENCES products(product_id)
 );
-
--- Verification Queries
-SELECT * FROM employees;
-SELECT * FROM product_lines;
-SELECT * FROM offices;
-SELECT * FROM payments;
-SELECT * FROM customers;
