@@ -1,1 +1,10 @@
 .env
+.venv/
+env/
+
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+*.log
+data/ (si contiene datasets pesados o sensibles)
